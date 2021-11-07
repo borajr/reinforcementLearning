@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # from GUIqlearning import Start
 
 # environment = np.zeros((5,5))
-
+#by @Bora Kaplan
 
 
 # environment[2][2] = 1
